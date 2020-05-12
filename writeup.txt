@@ -1,0 +1,8 @@
+The packages used for this project are below.
+Å@- Turtlebot, TUrtlebot_Interactions, Turtlebot_simulator: For control and simulation turtlebot.
+  - slam_gmapping : Lidar SLAM packages for mapping.
+  - AMCL: For localization.
+Å@- move_base : For navigation.
+  - pick_objects : move Turtlebot to specified position.
+  - add_markers : put marker to specified position of RViz.
+
